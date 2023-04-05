@@ -10,6 +10,7 @@ pager: false
 
 [rib-job]: https://github.com/rust-in-blockchain/rust-in-blockchain/blob/master/content/job-board.md
 
+
 Anoma | Berlin, Remote
 - [Senior Rust Engineer](https://heliax.dev/jobs/senior-rust-engineer/)
 - [Rust P2P Networking Engineer](https://heliax.dev/jobs/rust-p2p-networking-engineer)
@@ -25,6 +26,11 @@ Anon | Africa, Remote
 Aurora | Remote
 - [Blockchain/Bridge Engineer](https://docs.google.com/document/d/1xXMEeQffOv2rfPT4jpipwkjo4osmfyAp4eEl51j3dt4/edit?usp=sharing)
 - [Blockchain/EVM Engineer](https://docs.google.com/document/d/1VkaXInjgSczOL_R3aKMOnXKv7lFvvL1z__SlZQLfR78/edit?usp=sharing)
+
+B-Datagray | Dublin, Remote
+
+[Substrate developer] (https://drive.google.com/file/d/1BMN3FAt-IndOPmrvmVIvP-hApIylYw86/view?usp=share_link)
+
 
 Blockstream | Remote
 - [Software Engineer, iOS (Native)](https://grnh.se/cc6c514e1us)
